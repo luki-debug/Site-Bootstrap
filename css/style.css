@@ -1,0 +1,45 @@
+@import url('https://fonts.googleapis.com/css2?family=Fira+Sans:wght@300&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Montserrat&display=swap');
+
+body{
+    font: 20px 'Fira Sans', sans-serif;
+}
+.navbar{
+    background-color: #002e25;
+}
+.quem-somos{
+    background-color: #006652;
+    color: white;
+}
+.margin{
+    padding-top: 30px;
+    padding-bottom: 30px ;
+}
+.parceiros{
+    background-color: rgb(4, 189, 158);
+}
+.parceiros img{
+    width: 40%;
+    height: 100%;
+}
+.parceiros h3{
+    color: white;
+}
+.servicos img{
+    width: 100%;
+}
+p{
+    text-align:justify;
+}
+.bg-footer{
+    background-color: #212529;
+    color: white;
+}
+.navbar-dark .nav-item .nav-link{
+    font-family: 'Montserrat', sans-serif;
+    color: #cccdd7;
+}
+.navbar-dark .nav-item .nav-link:hover{
+    color: #dc143c;
+
+}
